@@ -1,5 +1,5 @@
 # Original/raw dataset
-data/raw/
+data\raw\online_retail_II.xlsx
 
 # Python
 __pycache__/
